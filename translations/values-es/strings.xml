@@ -9,8 +9,8 @@
     <string name="undo">Deshacer</string>
     <string name="redo">Rehacer</string>
     <string name="about">Acerca de | Ayuda</string>
-    <string name="defaultContent">¡Un gusto en conocerte!\nEste es un editor de texto rápido y plano en lo que creemos que "una buena experiencia de escritura" debería ser. Pure Writer es <b>minimalista y eso te permite escribir en tu corazón contenido en cualquier momento, cualquier lugar y sin temor a perderlo nunca más.</b>\nCon Pure Writer función de espacio entre líneas y párrafos, tu texto será más claro y más cómodo de leer. No sólo eso, también tiene un desplazamiento suave, un deslizamiento hasta colapsar el teclado y muchas más funciones interesantes.\nLa simplicidad es una complejidad oculta. Puedes encriptar tu trabajo con tu huella digital, comenzar o dejar de escribir cuando lo desees y compartir tu contenido rápidamente en otras aplicaciones. Estás protegido.\nLo más importante, <b>al menos que lo elimines manualmente, nunca perderás tu trabajo mientras uses este editor. Ya sea una eliminado accidentalmente o un apagado inesperado, aún podrás recuperarlo del Historial.</b>\nMás fuciones: WebDAV con Copia de Seguridad en la nube, tema de Material Design 2, Markdown, modo de máquina de escribir, exportar como imagen de texto largo, Máquina del Tiempo…\nEs rápido y ligero. Puedes interrumpir tu escritura y continuarla en cualquier momento y lugar.\nDisfruta de Pure Writer.</string>
-    <string name="share">SCompartir con otra aplicación</string>
+    <string name="defaultContent">¡Un gusto en conocerte!\nEste es un editor de texto rápido y plano en lo que creemos que "una buena experiencia de escritura" debería ser. Pure Writer es <b>minimalista y eso te permite escribir en tu corazón contenido en cualquier momento, cualquier lugar y sin temor a perderlo nunca más.</b>\nCon Pure Writer función de espacio entre líneas y párrafos, tu texto será más claro y más cómodo de leer. No solo eso, también tiene un desplazamiento suave, un deslizamiento hasta colapsar el teclado y muchas más funciones interesantes.\nLa simplicidad es una complejidad oculta. Puedes encriptar tu trabajo con tu huella digital, comenzar o dejar de escribir cuando lo desees y compartir tu contenido rápidamente en otras aplicaciones. Estás protegido.\nLo más importante, <b>al menos que lo elimines manualmente, nunca perderás tu trabajo mientras uses este editor. Ya sea un eliminado accidentalmente o un apagado inesperado, aún podrás recuperarlo del Historial.</b>\nMás fuciones: WebDAV con Copia de Seguridad en la nube, tema de Material Design 2, Markdown, modo de máquina de escribir, exportar como imagen de texto largo, Máquina del Tiempo…\nEs rápido y ligero. Puedes interrumpir tu escritura y continuarla en cualquier momento y lugar.\nDisfruta de Pure Writer.</string>
+    <string name="share">Compartir con otra aplicación</string>
     <string name="copyTitle">Copiar el título</string>
     <string name="lock">Bloquear</string>
     <string name="history">Historial</string>
@@ -155,7 +155,7 @@
     <string name="timeMachineGuide">¿Qué es esto? Podrías verlo como un chat o un lugar para registrar tus ideas, o incluso algo similar al Asistente de Google. Tiene un nombre especial que es "Máquina del Tiempo", ¡encantado de conocerte!</string>
     <string name="copyDate">Copiar fecha</string>
     <string name="defaultBook">Libros por defecto</string>
-    <string name="books">Libross</string>
+    <string name="books">Libros</string>
     <string name="createNewBook">Crear un nuevo Libros</string>
     <string name="summaryOfAbout">Conozca más sobre las ideas y conceptos originales que diseñamos para esta aplicación</string>
     <string name="emptyTip">Aún no se han abierto artículos</string>
@@ -169,7 +169,7 @@
     <string name="moveTo">Mover a</string>
     <string name="timeMachine">Máquina del Tiempo</string>
     <string name="listFirst">Abrir capítulos al inicio</string>
-    <string name="booksFirst">Abrir Libross al inicio</string>
+    <string name="booksFirst">Abrir Libros al inicio</string>
     <string name="language">Idioma</string>
     <string name="followSystem">Seguir Sistema</string>
     <string name="localPicture">Imagen Local</string>
@@ -211,7 +211,7 @@
     <string name="uploadSuccessful">Subida exitosa</string>
     <string name="fetchSuccessful">Extracción exitosa</string>
     <string name="messageUpload">Pure Writer creó un archivo <b>fijo</b> en el disco de la nube. El nombre del archivo es <b>PureWriter.txt</b>. Puedes dar clic en "ACEPTAR" para subir el artículo actual en el archivo fijado. Luego puedes editar este archivo en la nube en otros dispositivos. Cuando cambie, puedes bajarlo. \n\n¿Deseas sobrescribir el contenido del artículo actual en ese archivo en la nube?</string>
-    <string name="typewriterMode">Modo de Máquina de Escribir</string>
+    <string name="typewriterMode">Máquina de Escribir</string>
     <string name="edit">Editar</string>
     <string name="editBook">Editar Libros</string>
     <string name="tipFloatingWordCountDisabled">Después de desactivar el Contador de Palabras, aún podrás obtener el recuento total de palabras en la Máquina del Tiempo.</string>
@@ -239,11 +239,11 @@
     <string name="sortTypeTitleUp">Ordenar título A - Z</string>
     <string name="sortTypeTitleDown">Ordenar título Z - A</string>
     <string name="sortByRank">Clasificación Manual</string>
-    <string name="modifyRanks"><i><b>Hacer clasificación manual</b></i></string>
+    <string name="modifyRanks"><i><b>Ordenar manualmente</b></i></string>
     <string name="markdownShortcutTip">Acabas de insertar Markdown, que solo tendrá efecto en el modo Vista Previa de Markdown, ¿quieres activar el modo Markdown?</string>
     <string name="importedFileTooLargeToOpen">El archivo importado es demasiado grande y la apertura falló</string>
     <string name="failed">Fallo</string>
-    <string name="insertCategoryAboveShort">Insertar categoría <b>encima</b></string>
+    <string name="insertCategoryAboveShort">Insertar categoría por <b>encima</b></string>
     <string name="insertCategoryBelowShort">Insertar categoría <b>abajo</b></string>
     <string name="insertCategoryBottomShort">Insertar categoría en el <b>fondo</b></string>
     <string name="insertCategoryAboveLong">Insertar categoría <b>encima</b> del artículo actual</string>
@@ -255,7 +255,7 @@
     <string name="deleteEmptyArticlesShort">Eliminar todos los artículos vacíos</string>
     <string name="deleteEmptyArticlesLong">Eliminar todos los artículos con títulos y contenido en blanco en este Libros</string>
     <string name="deleteCategory">Eliminar categoría</string>
-    <string name="exportBook">Exportar este Libros</string>
+    <string name="exportBook">Exportar este Libro</string>
     <string name="needManualSortingTitle">Necesitas cambiar a la clasificación manual para usar esta función</string>
     <string name="needManualSortingMessage">¿Desea cambiar la configuración a "Clasificación manual"?</string>
     <string name="doubleClickToExit">Haga doble clic en la tecla Atrás para salir de la aplicación</string>
@@ -283,7 +283,7 @@
     <string name="find">Encontrar</string>
     <string name="currentChapter">Capítulo actual</string>
     <string name="currentText">Texto actual</string>
-    <string name="currentBook">Libros actual</string>
+    <string name="currentBook">Libro actual</string>
     <string name="ignoreCase">Ignorar caso</string>
     <string name="selectAll">Seleccionar todo</string>
     <string name="inverseAll">Todo inverso</string>
@@ -309,9 +309,9 @@
     <string name="defaultX">Por defecto</string>
     <string name="zoomIn">Aumentar el enfoque</string>
     <string name="zoomOut">Disminuir el enfoque</string>
-    <string name="switchingBooksTooltip">Haga clic en el título de este Libros para cambiar de Libross</string>
+    <string name="switchingBooksTooltip">Haga clic en el título de este Libros para cambiar de Libros</string>
     <string name="scrollToTheCurrentArticle">Desplazarse al artículo actual</string>
-    <string name="allBooks">Todos los Libross</string>
+    <string name="allBooks">Todos los Libros</string>
     <string name="outlines">Esquemas</string>
     <string name="outline">Esquema</string>
     <string name="mainLine">Línea principal</string>
@@ -331,7 +331,7 @@
     <string name="transparentNavigationBarWarning">Esta es una característica experimental. Cuando está activada, puede hacer que la altura del teclado virtual se verifique incorrectamente, lo que puede hacer que la barra de acceso directo no se muestre y el texto quede desenfocado. Si encuentras estos problemas, desactiva esta opción.</string>
     <string name="titleAsAWordForACountSummary">Cuando este elemento está activado, el siguiente modo de contador de palabras se desactivará. Si deseas utilizar las opciones en el modo contador de palabras, desactívalo.</string>
     <string name="customFont">Fuente personalizada</string>
-    <string name="customFontTip">Coloque el archivo de fuente .ttf en el directorio de almacenamiento externo <b>/Android/data/com.drakeet.purewriter</b> y reinicia Pure Writer para aplicar la fuente automáticamente. \nNota: Solo puede haber un archivo de fuente en este directorio, y algunos archivos de fuentes (como Google Sans) pueden hacer que el cursor se desplace.</string>
+    <string name="customFontTip">Coloca el archivo de fuente .ttf en el directorio de almacenamiento externo <b>/Android/data/com.drakeet.purewriter</b> y reinicia Pure Writer para aplicar la fuente automáticamente. \nNota: Solo puede haber un archivo de fuente en este directorio, y algunos archivos de fuentes (como Google Sans) pueden hacer que el cursor se desplace.</string>
     <string name="corruptBackupTip">¡El archivo de la Copia de Seguridad está corrupto! Intenta restaurar otra Copia y elige el tamaño y la hora correctos.</string>
     <string name="leftMargin">Margen izquierdo</string>
     <string name="rightMargin">Margen derecho</string>
